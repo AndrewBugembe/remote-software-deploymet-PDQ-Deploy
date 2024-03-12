@@ -43,7 +43,7 @@ This project demonstrates how to remotely deploy software on a server using PDQ 
   - Download required software onto the DC server
   - Check the PDQ Deploy Package Library to select the package and targeted computers
 
-<h2>Lifecycle Stages</h2>
+<h2>Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
