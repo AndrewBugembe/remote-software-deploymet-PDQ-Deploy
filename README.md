@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/XXlcupg"/>
+<img src="https://i.imgur.com/XXlcupg.png"/>
 </p>
 
 <h1>PDQ Deploy: Remote Software Deployment</h1>
