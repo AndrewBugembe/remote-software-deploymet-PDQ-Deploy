@@ -36,7 +36,12 @@ This project demonstrates how to remotely deploy software on a server using PDQ 
 - Configure Active Directory; create a domain controller and user server
 - Install PDQ DEPLOY in the domain controller
 - Configure PDQ DEPLOY:
-- Resolution
+  - Check the PDQ Deploy Package Library for a prebuilt package
+  - If available, use the prebuilt package for faster deployment
+  - Deploy the package to the targeted computers
+- Create a custom deployment package:
+  - Download required software onto the DC server
+  - Check the PDQ Deploy Package Library to select the package and targeted computers
 
 <h2>Lifecycle Stages</h2>
 
