@@ -32,6 +32,7 @@ This project demonstrates how to remotely deploy software on a server using PDQ 
 - Windows server 2022
 
 <h2>Steps</h2>
+
 - Configure Active Directory; create a domain controller and add a user server
 - Install PDQ DEPLOY on the domain controller
 - Configure PDQ DEPLOY:
