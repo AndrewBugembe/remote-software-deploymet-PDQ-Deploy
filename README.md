@@ -3,7 +3,7 @@
 </p>
 
 <h1>PDQ Deploy: Remote Software Deployment</h1>
-This project demonstrates how to remotely deploy software on a server using PDQ Deploy. PDQ Deploy is a powerful tool for system administrators, allowing them to efficiently manage software installations, patches across multiple servers silentl.
+This project demonstrates how to remotely deploy software on a server using PDQ Deploy. PDQ Deploy is a powerful tool for system administrators, allowing them to efficiently manage software installations, patches across multiple servers silently.
 
 ## Use Case
 - PDQ Deploy allows you to deploy new software to end-user computers. This is especially valuable when working remotely, as it streamlines the installation process.
