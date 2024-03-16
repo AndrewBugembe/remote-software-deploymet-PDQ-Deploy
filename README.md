@@ -56,7 +56,7 @@ Configure Active Directory; create a domain controller and add a user server.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install PDQ DEPLOY on the domain controller.
+Download and Install PDQ DEPLOY on the domain controller.
 </p>
 <br />
 
