@@ -45,7 +45,7 @@ This project demonstrates how to remotely deploy software on a server using PDQ 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xsfPkqO.png"/>
 </p>
 <p>
 Configure Active Directory; create a domain controller and add a user server.
@@ -53,7 +53,13 @@ Configure Active Directory; create a domain controller and add a user server.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uJXsTqj.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/yJdWmbW.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/m68e9Tu.png"/>
 </p>
 <p>
 Download and Install PDQ DEPLOY on the domain controller.
