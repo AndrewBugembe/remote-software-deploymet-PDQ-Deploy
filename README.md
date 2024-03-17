@@ -34,7 +34,7 @@ This project demonstrates how to remotely deploy software on a server using PDQ 
 <h2>Steps</h2>
 
 - Configure Active Directory; create a domain controller and add a user server
-- Install PDQ DEPLOY on the domain controller
+- Download and Install PDQ DEPLOY on the domain controller
 - Configure PDQ DEPLOY:
   - Check the PDQ Deploy Package Library for a prebuilt package
   - If available, use the prebuilt package for faster deployment
@@ -67,7 +67,18 @@ Download and Install PDQ DEPLOY on the domain controller.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zFJYsQO.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/2INgZMp.png"/>
+</p>
+<p>
+Configure PDQ DEPLOY: Check the PDQ Deploy Package Library for a prebuilt package.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bGAxZtD.png"/>
 </p>
 <p>
 Configure PDQ DEPLOY: Check the PDQ Deploy Package Library for a prebuilt package.
