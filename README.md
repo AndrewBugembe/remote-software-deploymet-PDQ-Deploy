@@ -73,7 +73,7 @@ Download and Install PDQ DEPLOY on the domain controller.
 <img src="https://i.imgur.com/2INgZMp.png"/>
 </p>
 <p>
-Configure PDQ DEPLOY: Check the PDQ Deploy Package Library for a prebuilt package.
+Post installation configurations 
 </p>
 <br />
 
@@ -86,7 +86,24 @@ Configure PDQ DEPLOY: Check the PDQ Deploy Package Library for a prebuilt packag
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1D5w6zm.png"/>
+</p>
+<p>
+Configure PDQ DEPLOY: If available, use the prebuilt package for faster deployment.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MJszN2o.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/7x2jshW.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/qF7V3Xv.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/EHf1172.png"/>
 </p>
 <p>
 Configure PDQ DEPLOY: Deploy the package to the targeted computers.
