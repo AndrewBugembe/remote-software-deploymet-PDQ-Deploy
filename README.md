@@ -106,15 +106,35 @@ Configure PDQ DEPLOY: If available, use the prebuilt package for faster deployme
 <img src="https://i.imgur.com/EHf1172.png"/>
 </p>
 <p>
+<img src="https://i.imgur.com/aLOTvN2.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/qbmOLpK.png"/>
+</p>
+
+<p>
 Configure PDQ DEPLOY: Deploy the package to the targeted computers.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zHBRICg.png"/>
 </p>
 <p>
-Create a custom deployment package: Download required software onto the DC server.
+<img src="https://i.imgur.com/6ocKIuE.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/ZfLEVQV.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/D4yla30.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/MvYIxd8.png"/>
+</p>
+
+<p>
+Create a custom deployment package: Select new package, name it and attach the downlaoded package/file.
 </p>
 <br />
 
