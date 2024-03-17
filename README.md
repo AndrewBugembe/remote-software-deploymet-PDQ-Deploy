@@ -111,9 +111,15 @@ Configure PDQ DEPLOY: If available, use the prebuilt package for faster deployme
 <p>
 <img src="https://i.imgur.com/qbmOLpK.png"/>
 </p>
-
 <p>
 Configure PDQ DEPLOY: Deploy the package to the targeted computers.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/sHlWhph.png"/>
+</p>
+<p>
+Check server to confirm package was deployed.
 </p>
 <br />
 
@@ -134,12 +140,15 @@ Configure PDQ DEPLOY: Deploy the package to the targeted computers.
 </p>
 
 <p>
-Create a custom deployment package: Select new package, name it and attach the downlaoded package/file.
+Create a custom deployment package: Select new package, name it and attach the downloaded package/file.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8b0iYTd.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/SywTadY.png"/>
 </p>
 <p>
 Create a custom deployment package: Check the PDQ Deploy Package Library to select the package and targeted computers, deploy package.
