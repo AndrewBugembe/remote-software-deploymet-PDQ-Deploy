@@ -17,7 +17,7 @@ This project demonstrates how to remotely deploy software on a server using PDQ 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to deploy software remotely using PDQ DEPLOY](https://youtu.be/LGjsXd10vxc)
+- ### [YouTube: How to Deploy Software Using PDQ DEPLOY remotely for System Administration](https://youtu.be/D1k_7bngO-M)
 
 <h2>Environments and Technologies Used</h2>
 
